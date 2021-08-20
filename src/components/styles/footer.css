@@ -1,0 +1,12 @@
+.footer {
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+    
+  }
+  .ftp{
+    color: #f5ba13;
+    font-size: larger;
+  }
